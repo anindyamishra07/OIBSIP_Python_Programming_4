@@ -1,4 +1,4 @@
-# 🌦️ Weather App (Tkinter)
+# 🌦️ Basic Weather App (Tkinter)
 
 ## 📖 Description
 This is a small desktop application that shows the current weather of any city entered by the user.  
